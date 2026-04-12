@@ -26,8 +26,6 @@
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-<h2 align="center">🛠️ Languages & Tools</h2>
-
 <h3 align="left">💻 Programming Languages</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
