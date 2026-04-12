@@ -41,7 +41,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Altium_Designer_Logo.png" alt="Altium Designer" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/LabVIEW_Logo.png" alt="LabVIEW" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/labview.svg" alt="LabVIEW" width="40" height="40"/>
 </p>
 
 <h3 align="left">🌐 Frontend Development</h3>
