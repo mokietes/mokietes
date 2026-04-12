@@ -26,6 +26,8 @@
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
+<h2 align="center">🛠️ Languages & Tools</h2>
+
 <h3 align="left">💻 Programming Languages</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -33,6 +35,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+<h3 align="left">⚡ Electrical Engineering & Embedded Systems</h3>
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
 </p>
 
 <h3 align="left">🌐 Frontend Development</h3>
@@ -83,9 +92,6 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 </p>
 
 ---
@@ -103,8 +109,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokietes&theme=dark" alt="GitHub Streak"/>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokietes&show_icons=true&locale=en&layout=compact&theme=dark" alt="mokietes" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokietes&show_icons=true&locale=en&theme=dark" alt="mokietes" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokietes&theme=dark" alt="mokietes" /></p>
