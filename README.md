@@ -40,7 +40,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Altium_Designer_Logo.png" alt="Altium Designer" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" alt="Altium Designer" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/labview.svg" alt="LabVIEW" width="40" height="40"/>
 </p>
 
@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg" alt="Materialize" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/materializecss.svg" alt="Materialize" width="40" height="40"/>
 </p>
 
 <h3 align="left">⚙️ Backend & APIs</h3>
