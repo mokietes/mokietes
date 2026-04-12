@@ -29,136 +29,101 @@
 <h3 align="left">💻 Programming Languages</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">⚡ Electrical Engineering & Embedded Systems</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-  </a>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
   <a href="https://www.qt.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40"/></a>
   <a href="https://www.altium.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" width="40" height="40"/>
-  </a>
+    <img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" height="40"/></a>
   <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nationalinstruments.svg" width="40" height="40"/>
-</a>
+    <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" height="40"/></a>
 </p>
 
 <h3 align="left">🌐 Frontend Development</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-  </a>
+    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a>
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
   <a href="https://svelte.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" height="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40" height="40"/>
-  </a>
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">🎨 UI & Styling</h3>
 <p align="left">
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/></a>
   <a href="https://materializecss.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/materializecss.svg" width="40" height="40"/>
-  </a>
+    <img src="https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materializecss&logoColor=white" height="40"/></a>
 </p>
 
 <h3 align="left">⚙️ Backend & APIs</h3>
 <p align="left">
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
   <a href="https://graphql.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">🧠 AI / Machine Learning</h3>
 <p align="left">
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
   <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/>
-  </a>
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">☁️ Cloud & Deployment</h3>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank">
-    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" height="40"/>
-  </a>
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" height="40"/></a>
   <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">🧪 Testing & DevOps</h3>
 <p align="left">
   <a href="https://jestjs.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/></a>
   <a href="https://www.cypress.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" width="40" height="40"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/></a>
 </p>
