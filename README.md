@@ -60,8 +60,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" width="40" height="40"/>
   </a>
   <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/labview.svg" width="40" height="40"/>
-  </a>
+  <img src="https://seeklogo.com/images/L/labview-logo-7F8C3B3A8E-seeklogo.com.png" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">🌐 Frontend Development</h3>
