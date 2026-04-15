@@ -3,18 +3,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokietes&label=Profile%20views&color=0e75b6&style=flat" alt="mokietes" /> </p>
 
-
-- 🔭 I’m currently working on **airbnb clone**
-
-- 🌱 I’m currently learning **fullstack development with Java**
-
-- 👨‍💻 All of my projects are available at [https://mokieportfolio.netlify.app/](https://mokieportfolio.netlify.app/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **mekonnen.tesfamichael@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+```json
+{
+  {
+  "name": "Mike T",
+  "located_in": "California, USA",
+  "current_job": "Software Engineer / AI Research Engineer",
+  "education": [
+    "B.S. Computer Science - San Francisco State University",
+    "Focus: Operating Systems, Distributed Systems, and Machine Learning"
+  ],
+  "fields_of_interests": [
+    "Computer Vision",
+    "Backend Engineering",
+    "Full Stack Development",
+    "Machine Learning Infrastructure"
+  ],
+  "technical_background": [
+    "AI Research Engineer - Vision-Language Models (Bounding Box Regression, Multi-Loss Training)",
+    "Backend Engineer - Java (Spring Boot), Node.js, Kafka (Microservices, Event-Driven Systems)",
+    "Full Stack Developer - React, Next.js, REST APIs",
+    "Systems Programmer - C, File Systems, Multithreading (pthreads, low-level I/O)",
+    "Machine Learning Engineer - PyTorch, Hugging Face Transformers, Model Fine-Tuning"
+  ],
+  "currently_learning": [
+    "Advanced Java Backend Systems Design",
+    "Large-Scale Model Optimization",
+    "Kubernetes at Scale"
+  ]
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
