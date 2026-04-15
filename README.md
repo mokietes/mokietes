@@ -33,14 +33,22 @@
   ]
 }
 ```
-
 <h3 align="left">Connect with me:</h3>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><a href="https://www.linkedin.com/in/mekonnen-tesfazien-9b95b6173/" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40" /></a></td>
+    <td><a href="https://fb.com/mekonnen-tesfamichael" target="blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="40" width="40" /></a></td>
+    <td><a href="https://instagram.com/mekonnentes" target="blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" height="40" width="40" /></a></td>
+    <td><a href="https://discord.gg/mokie#9631" target="blank"><img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="40" width="40" /></a></td>
+  </tr>
+</table>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mekonnen-tesfazien-9b95b6173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mekonnen-tesfazien-9b95b6173/" height="30" width="40" /></a>
 <a href="https://fb.com/mekonnen tesfamichael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mekonnen tesfamichael" height="30" width="40" /></a>
 <a href="https://instagram.com/mekonnentes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mekonnentes" height="30" width="40" /></a>
 <a href="https://discord.gg/mokie#9631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mokie#9631" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
