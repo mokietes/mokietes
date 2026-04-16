@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header" width="100%" />
 </p>
 <h1 align="center">👋 I'm Mekonnen T. Tesfazien</h1>
 <h3 align="center">A passionate fullstack dev from San Francisco</h3>
@@ -37,10 +37,10 @@
 }
 ```
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
-<h3 align="left">Connect with me:</h3>
-<table border="0" cellspacing="0" cellpadding="0">
+<h3 align="center">Connect with me:</h3>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td><a href="https://www.linkedin.com/in/mekonnen-tesfazien-9b95b6173/" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40" /></a></td>
     <td><a href="https://fb.com/mekonnen-tesfamichael" target="blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="40" width="40" /></a></td>
@@ -48,6 +48,22 @@
     <td><a href="https://discord.gg/mokie#9631" target="blank"><img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="40" width="40" /></a></td>
   </tr>
 </table>
+
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mokietes">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokietes&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Top Languages" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mokietes">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokietes&theme=dark&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <h3 align="left">💻 Programming Languages</h3>
