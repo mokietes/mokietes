@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mekonnen T. Tesfazien</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+<h1 align="center">👋 I'm Mekonnen T. Tesfazien</h1>
 <h3 align="center">A passionate fullstack dev from San Francisco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokietes&label=Profile%20views&color=0e75b6&style=flat" alt="mokietes" /> </p>
@@ -33,6 +36,9 @@
   ]
 }
 ```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
