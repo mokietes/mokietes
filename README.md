@@ -30,7 +30,6 @@
     "Machine Learning Engineer - PyTorch, Hugging Face Transformers, Model Fine-Tuning"
   ],
   "currently_learning": [
-    "Advanced Java Backend Systems Design",
     "Large-Scale Model Optimization",
     "Kubernetes at Scale"
   ]
