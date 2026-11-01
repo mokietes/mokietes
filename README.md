@@ -42,8 +42,8 @@
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td><a href="https://www.linkedin.com/in/mekonnen-tesfazien-9b95b6173/" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40" /></a></td>
-    <td><a href="https://fb.com/mekonnen-tesfamichael" target="blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="40" width="40" /></a></td>
-    <td><a href="https://instagram.com/mekonnentes" target="blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" height="40" width="40" /></a></td>
+    <td><a href="https://fb.com/m" target="blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="40" width="40" /></a></td>
+    <td><a href="https://instagram.com/mek" target="blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" height="40" width="40" /></a></td>
     <td><a href="https://discord.gg/mokie#9631" target="blank"><img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="40" width="40" /></a></td>
   </tr>
 </table>
